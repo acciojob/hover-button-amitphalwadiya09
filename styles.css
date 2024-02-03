@@ -9,5 +9,6 @@
 #btn:hover{
 	background-color:yellow;
 	color:black;
+	border:0px none gb(255, 255, 255);
 	border-radius:30px;
 }
